@@ -1,3 +1,2 @@
-# Basic-Currency-Exhange-Api
+# Python Api Applications for practicing
 
-This is a currency exchange api for practicing. 
