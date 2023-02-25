@@ -176,4 +176,4 @@ while True:
             print("TECHNOLOGY NEWS".center(50,"*"))
             for i in range(len(result["articles"])):
                 print("{0}.{1}--published at {2}".format(i+1,result["articles"][i]["title"],result["articles"][i]["publishedAt"]))
-            pass
+        
