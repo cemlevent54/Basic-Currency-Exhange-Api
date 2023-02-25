@@ -1,7 +1,9 @@
-# Python Api Applications for practicing
+# Python Basic Api Applications for practicing
 
-• Basic Weather Forecast Api
+• Weather Forecast Api
 
-• Basic Money Currency Exchange Api
+• Money Currency Exchange Api
 
-• Basic Imdb Movie Api
+• Imdb Movie Api
+
+• News Api
